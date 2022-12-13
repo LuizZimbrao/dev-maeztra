@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/luizZimbrao.github.io/maeztra/static/css/main.55c7db27.css",
+    "main.js": "/luizZimbrao.github.io/maeztra/static/js/main.75690702.js",
+    "static/media/banner-background-desktop.png": "/luizZimbrao.github.io/maeztra/static/media/banner-background-desktop.26e3fea8b0e8d8fe0568.png",
+    "static/media/banner-collection.png": "/luizZimbrao.github.io/maeztra/static/media/banner-collection.06f8eb0c4b315d3ba308.png",
+    "static/media/bg-newsletter.jpg": "/luizZimbrao.github.io/maeztra/static/media/bg-newsletter.fa9359dcd8cf90f10471.jpg",
+    "static/media/banner-background-mobile.png": "/luizZimbrao.github.io/maeztra/static/media/banner-background-mobile.c3c8815065c3479b63b4.png",
+    "static/media/Product2.png": "/luizZimbrao.github.io/maeztra/static/media/Product2.e5e089fe00c46f042a1a.png",
+    "static/media/Product1.png": "/luizZimbrao.github.io/maeztra/static/media/Product1.ffcd05854bb6ca6aa27d.png",
+    "static/media/banner-collection-mobile.png": "/luizZimbrao.github.io/maeztra/static/media/banner-collection-mobile.f87530887ff3f0674922.png",
+    "index.html": "/luizZimbrao.github.io/maeztra/index.html",
+    "main.55c7db27.css.map": "/luizZimbrao.github.io/maeztra/static/css/main.55c7db27.css.map",
+    "main.75690702.js.map": "/luizZimbrao.github.io/maeztra/static/js/main.75690702.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c7db27.css",
+    "static/js/main.75690702.js"
+  ]
+}
