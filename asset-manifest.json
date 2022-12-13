@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/luizzimbrao.github.io/dev-maeztra/static/css/main.55c7db27.css",
-    "main.js": "/luizzimbrao.github.io/dev-maeztra/static/js/main.80bb3571.js",
-    "static/media/banner-background-desktop.png": "/luizzimbrao.github.io/dev-maeztra/static/media/banner-background-desktop.26e3fea8b0e8d8fe0568.png",
-    "static/media/banner-collection.png": "/luizzimbrao.github.io/dev-maeztra/static/media/banner-collection.06f8eb0c4b315d3ba308.png",
-    "static/media/bg-newsletter.jpg": "/luizzimbrao.github.io/dev-maeztra/static/media/bg-newsletter.fa9359dcd8cf90f10471.jpg",
-    "static/media/banner-background-mobile.png": "/luizzimbrao.github.io/dev-maeztra/static/media/banner-background-mobile.c3c8815065c3479b63b4.png",
-    "static/media/Product2.png": "/luizzimbrao.github.io/dev-maeztra/static/media/Product2.e5e089fe00c46f042a1a.png",
-    "static/media/Product1.png": "/luizzimbrao.github.io/dev-maeztra/static/media/Product1.ffcd05854bb6ca6aa27d.png",
-    "static/media/banner-collection-mobile.png": "/luizzimbrao.github.io/dev-maeztra/static/media/banner-collection-mobile.f87530887ff3f0674922.png",
-    "index.html": "/luizzimbrao.github.io/dev-maeztra/index.html",
-    "main.55c7db27.css.map": "/luizzimbrao.github.io/dev-maeztra/static/css/main.55c7db27.css.map",
-    "main.80bb3571.js.map": "/luizzimbrao.github.io/dev-maeztra/static/js/main.80bb3571.js.map"
+    "main.css": "/dev-maeztra/static/css/main.55c7db27.css",
+    "main.js": "/dev-maeztra/static/js/main.9b020ac5.js",
+    "static/media/banner-background-desktop.png": "/dev-maeztra/static/media/banner-background-desktop.26e3fea8b0e8d8fe0568.png",
+    "static/media/banner-collection.png": "/dev-maeztra/static/media/banner-collection.06f8eb0c4b315d3ba308.png",
+    "static/media/bg-newsletter.jpg": "/dev-maeztra/static/media/bg-newsletter.fa9359dcd8cf90f10471.jpg",
+    "static/media/banner-background-mobile.png": "/dev-maeztra/static/media/banner-background-mobile.c3c8815065c3479b63b4.png",
+    "static/media/Product2.png": "/dev-maeztra/static/media/Product2.e5e089fe00c46f042a1a.png",
+    "static/media/Product1.png": "/dev-maeztra/static/media/Product1.ffcd05854bb6ca6aa27d.png",
+    "static/media/banner-collection-mobile.png": "/dev-maeztra/static/media/banner-collection-mobile.f87530887ff3f0674922.png",
+    "index.html": "/dev-maeztra/index.html",
+    "main.55c7db27.css.map": "/dev-maeztra/static/css/main.55c7db27.css.map",
+    "main.9b020ac5.js.map": "/dev-maeztra/static/js/main.9b020ac5.js.map"
   },
   "entrypoints": [
     "static/css/main.55c7db27.css",
-    "static/js/main.80bb3571.js"
+    "static/js/main.9b020ac5.js"
   ]
 }
