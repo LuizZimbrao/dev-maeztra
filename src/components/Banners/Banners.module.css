@@ -1,0 +1,158 @@
+.CustomProductImage_Wrapper {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.CustomProductImage {
+  position: relative;
+  margin: 0 1rem;
+}
+
+.CustomProductImage_Wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.CustomProductImage_SwiperContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CustomProductImage_SwiperSlide {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.CustomProductImage_SwiperContainer--vertical {
+  overflow-y: scroll !important;
+}
+
+.CustomProductImage_SwiperContainer--vertical::-webkit-scrollbar {
+  display: none !important;
+}
+
+.CustomProductImage_SwiperContainer {
+  position: relative;
+}
+
+.CustomProductImage_SwiperContainer .CustomProductImage_SwiperArrow {
+  position: absolute;
+  z-index: 99;
+  width: 20px;
+  background: transparent;
+  border: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0;
+  cursor: pointer;
+  height: 32px;
+}
+
+.CustomProductImage_SwiperContainer .CustomProductImage_SwiperArrow svg {
+  height: 100%;
+}
+
+.CustomProductImage_SwiperContainer .CustomProductImage_SwiperArrow:first-of-type {
+  left: 20px;
+  background: url(../../assets/arrowLeft.png);
+}
+
+.CustomProductImage_SwiperContainer .CustomProductImage_SwiperArrow:last-of-type {
+  right: 20px;
+  background: url(../../assets/arrowRight.png);
+}
+
+.CustomProductImage_SwiperSlideItem {
+  border: solid 2px #eeeeee;
+  width: 100%;
+  max-width: 100%;
+  height: 100% !important;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.CustomProductImage_SwiperSlide {
+  position: relative;
+}
+
+.Banner__Container {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 15%;
+}
+
+.Banner__Title {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  color: #FFFFFF;
+  margin:  0 0 40px;
+}
+
+.Banner__Text {
+  font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+margin-bottom: 32px;
+}
+
+.Banner__Button {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+  background: #FAA500;
+  border-radius: 10px;
+  width: 128px;
+  height: 48px;
+  border: none;
+  outline: none;
+}
+
+@media screen and (max-width: 1024px) {
+  .Banner__Container {
+    left: 10%;
+  }
+  
+  .Banner__Title {
+    font-size: 30px;
+    line-height: 37px;
+    margin: 0 0 24px;
+  }
+  
+  .Banner__Text {
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 16px;
+  }
+  
+  .Banner__Button {
+    font-size: 14px;
+    width: 76px;
+    height: 28px;
+  }
+}
+
+.CustomProductImage_SwiperSlide:last-child div {
+  bottom: 0 !important;
+}

@@ -1,0 +1,33 @@
+.BottomBar__Container {
+  width: 100%;
+  padding: .5rem 5%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #353535;
+}
+
+.BottomBar__Items {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.BottomBar__SocialMedia {
+  text-decoration: none;
+  color: #FFF;
+}
+
+@media screen and (max-width: 1024px) {
+  .BottomBar__Container {
+    padding: 20px 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 36px;
+  }
+
+  .BottomBar__Container svg {
+    transform: scale(0.8);
+  }
+}

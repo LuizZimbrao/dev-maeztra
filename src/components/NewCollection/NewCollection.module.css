@@ -1,0 +1,72 @@
+.NewCollection__Wrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 0 40px;
+}
+
+.NewCollection__Container {
+  display: flex;
+  align-items: center;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  max-width: 1600px;
+}
+
+.NewCollection__Content {
+  display: flex;
+  flex-direction: column;
+}
+
+.NewCollection__Title {
+  font-family: 'Titillium Web', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.NewCollection__Description {
+  font-family: 'Titillium Web', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.NewCollection__CollectionImage {
+  object-fit: contain;
+  width: 58.02vw;
+  max-width: 1114px;
+  margin-left: 3rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .NewCollection__Container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+  }
+
+  .NewCollection__Container img {
+    margin: 0;
+  }
+
+  .NewCollection__Description {
+    font-family: 'Titillium Web', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+    height: 80px;
+    overflow: hidden;
+  }
+
+  .NewCollection__Wrapper {
+    padding: 0 20px;
+  }
+}
